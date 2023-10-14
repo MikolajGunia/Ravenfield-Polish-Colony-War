@@ -1,0 +1,862 @@
+﻿{
+    "teamInfo": [
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Molotov Cocktail"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Bambu runcing"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Vz.24"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type Chiang Kai-Shek Rifle"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 99 [Type 30 Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 99"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 96 [Type 30 Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 96 [2.5X Scope]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 96"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Arisaka Type 99 Sniper Rifle"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Beretta M38A"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Bergmann Type Be"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Shaanxi M1921 Thompson"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MP 28/II"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MP 18/I"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Mosin Nagant M91/30"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Hino-Komuro M1908"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Luger P08"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Lunge Mine"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Lee-Enfield No. 4 Mk I"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Enfield M1917 [M1917 Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "DP-27"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Dadao"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Nambu Type 2"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "SMLE"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 100"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Bazooka M1A1"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Astra 901"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 89 Grenade Discharger"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 95 Sword"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 95 Sword [No Banzai lines]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Arisaka Type 99 [Type 30 Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Arisaka Type 99 [Monopod]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Arisaka Type 44 Cavalry Rifle"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 97 Grenade"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Arisaka Type 38 Carbine"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Arisaka Type 38 [Type 30 Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 99 Mine"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M24 Stielhandgranate"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 30 Bayonet"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 11"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Tsing-Tao Hand Held MG"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Sten MkIIS [Secondary]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Sten MkIIS"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Sten MkII [Secondary]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Sten MkII"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Springfield M1903A3"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Ross Rifle Mk III"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "PPD-40"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Nambu Type 14"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MP 34"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Mosin Nagant M91/30 [M1930 Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Mosin Nagant M91/30 [Dyakonov Launcher]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Mosin Nagant M91 [M1891 Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Mosin Nagant M91"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Madsen"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M712 Mauser"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M3A1 Grease Gun"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M1917 Revolver"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Lewis Gun Mk I"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Lee-Enfield No. 4 Mk I [Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Lahti-Saloranta M/26 "
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Kar98k"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Hanyang 88"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Gewehr 98"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "FM 24/29"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Enfield M1917"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Colt M1911A1"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Colt M1911"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Colt M1903 Hammerless"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Chinese Type 17 Mauser"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Carcano M1891"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Browning HP"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Bren Mk2"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Boys Mk I AT Rifle [Gear]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Boys Mk I AT Rifle"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Arisaka Type 38"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Bechowiec"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Bechowiec [Secondary]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Berthier M1915"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Berthier M1916"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Blyskawica"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Chauchat 1915 CSRG"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Enfield P14"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Enfield P14 [M1917 Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Enfield P14 [P17 Scope]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "ET 40 Filipinka"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "ET 40 Perełka"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Gewehr 98 [M1884/98 Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Home Army Knife"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Kb.Wz. 35"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Kb.Wz. 35 [Gear]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Lebel 1886"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M1921 Mauser"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M1921 Mauser [Secondary]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M1A1 Thompson"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Mannlicher M1895"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MG 08/15"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MG 08/15 [Gear]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Mors Submachine Gun"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "PIAT"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "PTRD-41"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "PTRD-41 [Gear]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Ruby"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Sitek SMG"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Sitek SMG [Secondary]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Strapoc Pistol"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Teterycz Machine Gun"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "TT-33"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Wz. 1929"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Wz. 28"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Wz. 35 Vis"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Wz. 38M"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Wz. 38M [Arcade]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Wz. 91/98/25"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "1561568210",
+                    "sourceWorkshopId": 1561568210,
+                    "name": "Kurogane"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "1733201107",
+                    "sourceWorkshopId": 1733201107,
+                    "name": "RIKUOH"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "3011799572",
+                    "sourceWorkshopId": 3011799572,
+                    "name": "TYPE97"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2873503869",
+                    "sourceWorkshopId": 2873503869,
+                    "name": "Ki-61"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "2788256756",
+                    "sourceWorkshopId": 2788256756,
+                    "name": "Daihatsu(Ver.2)"
+                },
+                {
+                    "type": 7,
+                    "sourceDirectory": "2096776703",
+                    "sourceWorkshopId": 2096776703,
+                    "name": "DD Yugumo"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "2788254455",
+                    "sourceWorkshopId": 2788254455,
+                    "name": "G4M1(Ver.3)"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "3011799572",
+                    "sourceWorkshopId": 3011799572,
+                    "name": "TYPE95"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "1733936694",
+                    "sourceWorkshopId": 1733936694,
+                    "name": "(H)(NEW)Type92_HMG 2"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2114816395",
+                    "sourceWorkshopId": 2114816395,
+                    "name": "Type1 47mm AT Gun"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2100475516",
+                    "sourceWorkshopId": 2100475516,
+                    "name": "AA 25mm Type 96"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2974437402",
+                "sourceWorkshopId": 2974437402,
+                "name": "Korean Soldier"
+            }
+        },
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Arisaka Type 38"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Arisaka Type 38 [Type 30 Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Arisaka Type 38 Carbine"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Arisaka Type 44 Cavalry Rifle"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Arisaka Type 99 [Monopod]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Arisaka Type 99 [Type 30 Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Arisaka Type 99 Sniper Rifle"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Bergmann Type Be"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Hino-Komuro M1908"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Lunge Mine"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Nambu Type 14"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Nambu Type 2"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 100"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 11"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 30 Bayonet"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 89 Grenade Discharger"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 95 Sword"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 95 Sword [No Banzai lines]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 96"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 96 [2.5X Scope]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 96 [Type 30 Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 97 Grenade"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 99"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 99 [Type 30 Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Type 99 Mine"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "1561568210",
+                    "sourceWorkshopId": 1561568210,
+                    "name": "Kurogane"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "1733201107",
+                    "sourceWorkshopId": 1733201107,
+                    "name": "RIKUOH(IJNSLF.Ver)"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "1688863360",
+                    "sourceWorkshopId": 1688863360,
+                    "name": "Type 2 Ka-Mi"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2749183439",
+                    "sourceWorkshopId": 2749183439,
+                    "name": "A6M5_mod52(Ver.2)"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "1688863360",
+                    "sourceWorkshopId": 1688863360,
+                    "name": "Type 2 Ka-Mi Pontoon"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "1733936694",
+                    "sourceWorkshopId": 1733936694,
+                    "name": "(H)(NEW)Type92_HMG 2"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2114816395",
+                    "sourceWorkshopId": 2114816395,
+                    "name": "Type1 47mm AT Gun"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2100475516",
+                    "sourceWorkshopId": 2100475516,
+                    "name": "AA 25mm Type 96"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2098893806",
+                "sourceWorkshopId": 2098893806,
+                "name": "WW2 IJA (Cap w/ Neck Flaps)"
+            }
+        }
+    ],
+    "mutatorInfo": [
+        {
+            "sourceDirectory": "2798111848",
+            "sourceWorkshopId": 2798111848,
+            "name": "World War 2 Flags",
+            "fields": [
+                {
+                    "id": "EagleFlag",
+                    "serializedValue": "54"
+                },
+                {
+                    "id": "RavenFlag",
+                    "serializedValue": "4"
+                }
+            ]
+        }
+    ],
+    "playerHasAllWeapons": false
+}

@@ -1,0 +1,942 @@
+﻿{
+    "teamInfo": [
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Eihandgranaat No.3"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Einstossflammenwerfer 46"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Geballte Ladung 3kg"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M24 Bundle"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M24 Stielhandgranate"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M39 Eihandgranate"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M43 Stielhandgranate"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Nebelhandgranate"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Astra 901"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Belgian 1889 Mauser"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Belgian 1889/36 Carbine"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Beretta M34"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Beretta M38A"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Bergmann M1920"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Berthier M1915"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Berthier M1916"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Breda 30"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Breda 30 [Gear]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Browning HP"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "DP-27"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "FG 42"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "FG 42 [FG42 Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "FG 42 [Schiessbecher]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "FG 42 [ZF4 Scope]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Fliegerfaust A"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Fliegerfaust B"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "FM 24/29"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Gewehr 312(d) [German Krag]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Gewehr 41 (W)"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Gewehr 43"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Gewehr 43 [ZF4 Scope]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Gewehr 98"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Gewehr 98 [Gortz Scope]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Gewehr 98 [M1884/98 Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Hellriegel 1915"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Kar98k"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Kar98k [S84/98 III Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Kar98k [Schiessbecher]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Kar98k [ZF4 Scope]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Kb.Wz. 35"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Kb.Wz. 35 [Gear]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Luger P08"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M1921 Mauser"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M1921 Mauser [Secondary]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M30 Luftwaffe drilling "
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M30 Luftwaffe drilling [Gear]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M712 Mauser"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Madsen"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Mannlicher M1895"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Mannlicher M1895 Carbine"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Mannlicher M1895 Carbine [Kahles Heliavier Scope]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MAS 1935S"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MG 08/15"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MG 08/15 [Gear]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MG 34"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MG 34 [250 Rounds Belt]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MG 42"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MG 42 [250 Rounds Belt]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MP 18/I"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MP 28/II"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MP 3008"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MP 34"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MP 38"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MP 40"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "MP 41"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Panzerfaust 60"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Panzerschreck"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "PPS-43"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "PTRD-41"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "PTRD-41 [Gear]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "PTRS-41"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "PTRS-41 [Gear]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Reibel Machine Gun"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Reibel Machine Gun [Gear]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "RSC 1918"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Schaufel"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Schwarzlose M98"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "SMLE"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "SS41 AT Rifle"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "SS41 AT Rifle [Gear]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "StG 44"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "StG 44 [ZF44 Scope]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Volkssturmgewehr"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Vz.24"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Walther P38"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Wz. 38M"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Wz. 38M [Arcade]"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2179381351",
+                    "sourceWorkshopId": 2179381351,
+                    "name": "kubelwagen Trailer v2022"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "3013274610",
+                    "sourceWorkshopId": 3013274610,
+                    "name": "Sdkfz_251_C"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2179381351",
+                    "sourceWorkshopId": 2179381351,
+                    "name": "kubelwagen v2022"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "2443593172",
+                    "sourceWorkshopId": 2443593172,
+                    "name": "Hetzer Feld v2022"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "1264615820",
+                    "sourceWorkshopId": 1264615820,
+                    "name": "BF-109E"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "2110363018",
+                    "sourceWorkshopId": 2110363018,
+                    "name": "assault boat"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "1264615820",
+                    "sourceWorkshopId": 1264615820,
+                    "name": "He-111H"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "2225156260",
+                    "sourceWorkshopId": 2225156260,
+                    "name": "TKS_tankette_mg34 v1 1 2022"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2581058654",
+                    "sourceWorkshopId": 2581058654,
+                    "name": "mg34_lafette_turret_v2"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2581058654",
+                    "sourceWorkshopId": 2581058654,
+                    "name": "pak_38 v2022"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2581058654",
+                    "sourceWorkshopId": 2581058654,
+                    "name": "Flak36_37mm_AA"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2099278203",
+                "sourceWorkshopId": 2099278203,
+                "name": "Heer - M40"
+            }
+        },
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Fairbairn–Sykes Fighting Knife"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Mills Bomb"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "No. 69 Grenade"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "No. 73 Grenade"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "No. 77 Grenade"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Arisaka Type 38"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Arisaka Type 38 [Type 30 Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Arisaka Type 38 Carbine"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Boys Mk I AT Rifle"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Boys Mk I AT Rifle [Gear]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Boys Mk II AT Rifle"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Boys Mk II AT Rifle [Gear]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Bren Mk2"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Browning HP"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Enfield M1917"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Enfield M1917 [M1917 Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Enfield P14"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Enfield P14 [M1917 Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Enfield P14 [P17 Scope]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Lee-Enfield No. 4 Mk I"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Lee-Enfield No. 4 Mk I [Bayonet]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Lee-Enfield No. 4 Mk I [Scope]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Lewis Gun Mk I"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Lewis Gun Mk III"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M1 Carbine"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M1917 Bayonet"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M1917 Revolver"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M1928 Thompson"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "M1928A1 Thompson"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Madsen"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "PIAT"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Reising M55"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "SMLE"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Springfield M1903A1"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Sten MkII"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Sten MkII [Secondary]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Sten MkIIS"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Sten MkIIS [Secondary]"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Sten MkV"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Webley Mk VI Revolver"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Welrod MkI"
+                },
+                {
+                    "sourceDirectory": "1418651185",
+                    "sourceWorkshopId": 1418651185,
+                    "name": "Welrod MkI [Gear]"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2170262145",
+                    "sourceWorkshopId": 2170262145,
+                    "name": "SAS_Jeep v1 2022"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2170262145",
+                    "sourceWorkshopId": 2170262145,
+                    "name": "SAS_Jeep_50cal v2 2022"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2258209176",
+                    "sourceWorkshopId": 2258209176,
+                    "name": "Bren_carrier v3 2022"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "2899037709",
+                    "sourceWorkshopId": 2899037709,
+                    "name": "Valentine_mkii_europe"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2746329033",
+                    "sourceWorkshopId": 2746329033,
+                    "name": "Hurricane 22"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "2110363018",
+                    "sourceWorkshopId": 2110363018,
+                    "name": "assault boat"
+                },
+                {
+                    "type": 7,
+                    "sourceDirectory": "1910967810",
+                    "sourceWorkshopId": 1910967810,
+                    "name": "Town Class Light Cruiser (Belfast) El Papa"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "2738360764",
+                    "sourceWorkshopId": 2738360764,
+                    "name": "Havilland Prefab 2022"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "2899037709",
+                    "sourceWorkshopId": 2899037709,
+                    "name": "Valentine_Archer_europe"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2181169409",
+                    "sourceWorkshopId": 2181169409,
+                    "name": "Browning_M2_mg_standing v2 2022 remake"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2181169409",
+                    "sourceWorkshopId": 2181169409,
+                    "name": "Ordnance_QF_6_Pounder Late v2 2022"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2181169409",
+                    "sourceWorkshopId": 2181169409,
+                    "name": "M45_quadmount compatible v2 2022"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2075805360",
+                "sourceWorkshopId": 2075805360,
+                "name": "WW2 Late British Army (Mk II)"
+            }
+        }
+    ],
+    "mutatorInfo": [
+        {
+            "sourceDirectory": "2798111848",
+            "sourceWorkshopId": 2798111848,
+            "name": "World War 2 Flags",
+            "fields": [
+                {
+                    "id": "EagleFlag",
+                    "serializedValue": "3"
+                },
+                {
+                    "id": "RavenFlag",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2984941901",
+            "sourceWorkshopId": 2984941901,
+            "name": "Raven Thunder Aiming Mechanism",
+            "fields": [
+                {
+                    "id": "fAircraftNormalSensitivity",
+                    "serializedValue": "2"
+                },
+                {
+                    "id": "fAircraftAimingSensitivity",
+                    "serializedValue": "0.5"
+                },
+                {
+                    "id": "fTurretNormalSensitivity",
+                    "serializedValue": "1.2"
+                },
+                {
+                    "id": "fTurretAimingSensitivity",
+                    "serializedValue": "0.3"
+                },
+                {
+                    "id": "fPlaneTorqueMultiplier",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "fHeliTorqueMultiplier",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "fOffsetCamAircaftDefaultY",
+                    "serializedValue": "9"
+                },
+                {
+                    "id": "fOffsetCamAircaftDefaultZ",
+                    "serializedValue": "-30"
+                },
+                {
+                    "id": "fOffsetCamTurretDefaultY",
+                    "serializedValue": "2.2"
+                },
+                {
+                    "id": "fOffsetCamTurretDefaultZ",
+                    "serializedValue": "-9"
+                },
+                {
+                    "id": "fPitchSpeedBenchmark",
+                    "serializedValue": "30"
+                },
+                {
+                    "id": "fBearingSpeedBenchmark",
+                    "serializedValue": "40"
+                },
+                {
+                    "id": "fHeliPitchMultiplier",
+                    "serializedValue": "4"
+                },
+                {
+                    "id": "fHeliYawMultiplier",
+                    "serializedValue": "1.8"
+                },
+                {
+                    "id": "fHeliRollMultiplier",
+                    "serializedValue": "3.5"
+                },
+                {
+                    "id": "fPlanePitchMultiplier",
+                    "serializedValue": "5.5"
+                },
+                {
+                    "id": "fPlaneYawMultiplier",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "fPlaneRollMultiplier",
+                    "serializedValue": "4.5"
+                },
+                {
+                    "id": "fPlaneBaseTorquePortion",
+                    "serializedValue": "0.5"
+                },
+                {
+                    "id": "fHeliBaseTorquePortion",
+                    "serializedValue": "0.5"
+                },
+                {
+                    "id": "fDynamicFOV",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "fUseNonLinearTurretSpeed",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "isReverseYAxis",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "bEnableAirplane",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bEnableHelicopter",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bEnableTurret",
+                    "serializedValue": "True"
+                }
+            ]
+        }
+    ],
+    "playerHasAllWeapons": false
+}
